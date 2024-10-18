@@ -81,9 +81,10 @@ The server should start, and you can access the services via the defined endpoin
 
 ## To-Do List
 - Apple Login
+- PayPal Login
 - Apple Pay
 - Google Pay
-- Unit tests (optional)
+
 
 ## Contributing
 
